@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there 👋, I'm Ralph Dharin Bulalacao<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=007ACC&center=true&vCenter=true&multiline=true&width=500&height=60&lines=BSIS+Student+%7C+Software+Engineer+Mindset;Creative+Editor+%7C+UI%2FUX+Designer;Code.+Design.+Troubleshoot.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&multiline=true&width=500&height=60&lines=BSIS+Student+%7C+Software+Engineer+Mindset;Creative+Editor+%7C+UI%2FUX+Designer;Code.+Design.+Troubleshoot.+Repeat." alt="Typing SVG" />
 </h1>
 
 <p align="center">
