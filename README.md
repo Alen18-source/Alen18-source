@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Who Am I? (DevOps Vibe)
+##  Who Am I? (DevOps Vibe)
 
 I'm a passionate IS student with a DevOps mindset — bridging development and operations with a strong foundation in system design, CI/CD pipelines, and end-user experience.
 
@@ -26,13 +26,13 @@ I'm a passionate IS student with a DevOps mindset — bridging development and o
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ![Editor](https://img.shields.io/badge/VideoEditor-DaVinciResolve-990000?style=flat&logo=adobe-premiere-pro&logoColor=white)
 ![Designer](https://img.shields.io/badge/Designer-Figma-0061D5?style=flat&logo=figma&logoColor=white)
 ![Troubleshooter](https://img.shields.io/badge/Troubleshooter-PC%20Build%20%26%20Fix-blue)
 
-### 💻 Programming
+###  Programming
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -43,7 +43,7 @@ I'm a passionate IS student with a DevOps mindset — bridging development and o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 </p>
 
-### 🎨 Creative Tools
+###  Creative Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" />
@@ -55,9 +55,9 @@ I'm a passionate IS student with a DevOps mindset — bridging development and o
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🧭 Faith Project — Offline Financial System
+###  Faith Project — Offline Financial System
 🔐 Built for local communities needing a secure offline-first finance app  
 💸 Handles members, loans, transactions, and encrypted backups
 
@@ -73,7 +73,7 @@ I'm a passionate IS student with a DevOps mindset — bridging development and o
 
 ---
 
-### 🏨 Graziela’s Resto & Events Hall Booking System  
+###  Graziela’s Resto & Events Hall Booking System  
 📅 Automated event bookings, increased visibility, and customer engagement  
 📈 Deployed real-world for a local business in Baao
 
@@ -89,7 +89,7 @@ I'm a passionate IS student with a DevOps mindset — bridging development and o
 
 ---
 
-### 🔄 Developer + Ops Skillset
+###  Developer + Ops Skillset
 
 - 🧱 Built full-stack apps with modular, scalable code  
 - 🐳 Familiar with deployment workflows using Git & CI/CD concepts  
