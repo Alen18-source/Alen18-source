@@ -1,139 +1,86 @@
-<h1 align="center">
-  Hi there 👋, I'm Ralph Dharin Bulalacao<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&multiline=true&width=500&height=60&lines=BSIS+Student+%7C+Software+Engineer+Mindset;Creative+Editor+%7C+UI%2FUX+Designer;Code.+Design.+Troubleshoot.+Repeat." alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Ralph Dharin 👋</h1>
 
 <p align="center">
-  🎓 4th Year Student — <b>BS in Information Systems</b><br>
-  🏫 Baao Community College
+  <b>Junior Full-Stack Developer</b> · Information Systems Student · Baao, Camarines Sur 🇵🇭
 </p>
+
+<p align="center">
+  <a href="mailto:ralphdharinbulalacao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://devs100.com"><img src="https://img.shields.io/badge/DEVS100-Founding%20Member-black?style=for-the-badge&logo=terminal&logoColor=white"/></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **3rd year Information Systems student** at Baao Community College, building real-world systems for local businesses and organizations. I focus on full-stack web development — from frontend UI to backend APIs and database design.
+
+- 🔭 Currently working on **DepEd Iriga – Digital Teacher Application System** (OJT Project)
+- 🌱 Currently improving my **CSS fundamentals and clean code practices**
+- 💼 Built systems for event booking, ISP billing, payroll, and financial management
+- 🎥 Also a freelance videographer, photographer & editor
+- ⛪ Multimedia Head & Tech at **Church of God Baao** since 2021
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alen18-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alen18-source&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alen18-source&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📬 Get in Touch
+
+- 📧 ralphdharinbulalacao@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4)
+- 🐙 You're already here!
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" alt="Transparent Coding GIF" />
+  <img src="https://komarev.com/ghpvc/?username=alen18-source&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
-
----
-
-##  Who Am I? (DevOps Vibe)
-
-I'm a passionate IS student with a DevOps mindset — bridging development and operations with a strong foundation in system design, CI/CD pipelines, and end-user experience.
-
-🔧 I thrive in environments where I can automate, monitor, and scale systems — while keeping things beautifully designed and user-friendly.
-
-💡 Whether it's managing code, workflows, or people — I'm constantly seeking ways to optimize and deliver impact.
-
----
-
-##  Skills & Tools
-
-![Editor](https://img.shields.io/badge/VideoEditor-DaVinciResolve-990000?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![Designer](https://img.shields.io/badge/Designer-Figma-0061D5?style=flat&logo=figma&logoColor=white)
-![Troubleshooter](https://img.shields.io/badge/Troubleshooter-PC%20Build%20%26%20Fix-blue)
-
-###  Programming
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</p>
-
-###  Creative Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/Alen18-source/dev-assets-ralph/main/davinci-resolve.png" width="40" alt="DaVinci Resolve" />
-  <img src="https://raw.githubusercontent.com/Alen18-source/dev-assets-ralph/main/capcut-logo.png" width="40" alt="CapCut" />
-  <img src="https://raw.githubusercontent.com/Alen18-source/dev-assets-ralph/main/ms-office.png" width="40" alt="MS Office" />
-</p>
-
----
-
-##  Featured Projects
-
-###  Faith Project — Offline Financial System
-🔐 Built for local communities needing a secure offline-first finance app  
-💸 Handles members, loans, transactions, and encrypted backups
-
-**Tech Stack:**  
-![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-<a href="https://github.com/ralphdharin/faith-project" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-###  Graziela’s Resto & Events Hall Booking System  
-📅 Automated event bookings, increased visibility, and customer engagement  
-📈 Deployed real-world for a local business in Baao
-
-**Tech Stack:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white)
-
-<a href="https://github.com/ralphdharin/grazielas-booking-system" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-###  Developer + Ops Skillset
-
-- 🧱 Built full-stack apps with modular, scalable code  
-- 🐳 Familiar with deployment workflows using Git & CI/CD concepts  
-- 🔐 Understand version control, rollback, and secure dev environments  
-- 🧪 Applied Agile practices in collaborative team settings
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ralphdharin&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ralphdharin&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralphdharin&layout=compact&theme=radical" width="60%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ralphdharin/ralphdharin/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 💼 Open for Freelance or Collaboration
-
-🚀 Looking for someone to bring your software idea to life?  
-🔧 Or need help designing systems, fixing code, or deploying your app?
-
-📩 Reach out via [Facebook](https://www.facebook.com/ralphdharin.bulalacao.9) or [Instagram](https://www.instagram.com/ralph_bulalacao/) and let's build something awesome!
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.facebook.com/ralphdharin.bulalacao.9">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ralph_bulalacao/">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ Quote That Guides Me
-
-> “Great software is born from clear thinking and creative vision —  
-> but problems get solved by those who aren’t afraid to dig in and fix.”  
-> — **Ralph Dharin** 🌟
