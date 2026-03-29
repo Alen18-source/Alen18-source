@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **3rd year Information Systems student** at Baao Community College, building real-world systems for local businesses and organizations. I focus on full-stack web development — from frontend UI to backend APIs and database design.
+I'm a **4th year Information Systems student** at Baao Community College, building real-world systems for local businesses and organizations. I focus on full-stack web development — from frontend UI to backend APIs and database design.
 
 - 🔭 Currently working on **DepEd Iriga – Digital Teacher Application System** (OJT Project)
 - 🌱 Currently improving my **CSS fundamentals and clean code practices**
