@@ -12,19 +12,19 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a **4th year Information Systems student** at Baao Community College, building real-world systems for local businesses and organizations. I focus on full-stack web development — from frontend UI to backend APIs and database design.
 
-- 🔭 Currently working on **DepEd Iriga – Digital Teacher Application System** (OJT Project)
-- 🌱 Currently improving my **CSS fundamentals and clean code practices**
-- 💼 Built systems for event booking, ISP billing, payroll, and financial management
-- 🎥 Also a freelance videographer, photographer & editor
-- ⛪ Multimedia Head & Tech at **Church of God Baao** since 2021
+-  Currently working on **DepEd Iriga – Digital Teacher Application System** (OJT Project)
+-  Currently improving my **CSS fundamentals and clean code practices**
+-  Built systems for event booking, ISP billing, payroll, and financial management
+-  Also a freelance videographer, photographer & editor
+-  Multimedia Head & Tech at **Church of God Baao** since 2021
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 
@@ -60,7 +60,7 @@ I'm a **4th year Information Systems student** at Baao Community College, buildi
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alen18-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -73,11 +73,11 @@ I'm a **4th year Information Systems student** at Baao Community College, buildi
 
 ---
 
-### 📬 Get in Touch
+### Get in Touch
 
-- 📧 ralphdharinbulalacao@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4)
-- 🐙 You're already here!
+- ralphdharinbulalacao@gmail.com
+- [LinkedIn](https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4)
+- You're already here!
 
 ---
 
