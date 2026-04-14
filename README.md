@@ -20,7 +20,7 @@ I'm a **4th year Information Systems student** at Baao Community College, buildi
 -  Currently improving my **CSS fundamentals and clean code practices**
 -  Built systems for event booking, ISP billing, payroll, and financial management
 -  Also a freelance videographer, photographer & editor
--  Multimedia Head & Tech at **Church of God Baao** since 2021
+-  Multimedia Head & Tech at **COG Baao** since 2021
 
 ---
 
