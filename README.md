@@ -30,8 +30,6 @@ Beyond coding, I’m committed to continuous learning and growth. I contribute t
 
 ## Tech Stack
 
-> Replace these with your real stack (or tell me what you use and I’ll fill it in accurately).
-
 **Frontend:** React, Vite, Tailwind CSS  
 **Backend:** Node.js, Express, REST APIs  
 **Database:** PostgreSQL, MySQL  
