@@ -22,7 +22,7 @@
 
 I’m a <strong>Junior Full-Stack Developer</strong> with about a <strong>year of experience</strong> building web-based systems that help local businesses <strong>streamline operations</strong> and <strong>improve efficiency</strong>. I focus on practical solutions that <strong>reduce manual work</strong> and <strong>improve the overall user experience</strong>.
 
-Beyond coding, I’m committed to continuous learning and growth. I contribute to the tech community as a <strong>Tech Lead at COG Baao</strong> and as a member of <strong>DEVS100</strong> and <strong>GDG Philippines</strong>. Recently, I’ve been exploring <strong>AI-assisted development</strong> and how it can improve workflows and project outcomes.
+Beyond coding, I’m committed to continuous learning and growth. I contribute to the tech community as a <strong>Tech Lead</strong> at <strong>COG Baao</strong> and as a member of <strong>DEVS100</strong> and <strong>GDG Philippines</strong>. Recently, I’ve been exploring <strong>AI-assisted development</strong> and how it can improve workflows and project outcomes.
 
  I am currently finishing my <strong>Bachelor of Science in Information Systems</strong> and am actively seeking opportunities. whether a <strong>full-time junior developer role</strong> or meaningful <strong>project-based work</strong>.
 
