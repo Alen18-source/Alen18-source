@@ -75,8 +75,9 @@ I'm a **4th year Information Systems student** at Baao Community College, buildi
 
 ### Get in Touch
 
-- ralphdharinbulalacao@gmail.com
+- [Gmail](ralphdharinbulalacao@gmail.com)
 - [LinkedIn](https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4)
+- [Instagram](https://www.instagram.com/ralph_bulalacao1/)
 - You're already here!
 
 ---
