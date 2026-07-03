@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ralph Dharin</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · Junior Full-Stack Developer · Baao, Camarines Sur 🇵🇭
+  <b>Software Engineer</b> · Full-Stack Developer · Philippines 🇵🇭
 </p>
 
 <p align="center">
@@ -20,45 +20,46 @@
 
 ## About Me
 
-I’m a <strong>Junior Full-Stack Developer</strong> with about a <strong>year of experience</strong> building web-based systems that help local businesses <strong>streamline operations</strong> and <strong>improve efficiency</strong>. I focus on practical solutions that <strong>reduce manual work</strong> and <strong>improve the overall user experience</strong>.
+I'm a Software Engineer passionate about building practical software that solves real-world problems. I enjoy turning ideas into reliable systems that help businesses and organizations improve their workflows and simplify everyday operations.
 
-Beyond coding, I’m committed to continuous learning and growth. I contribute to the tech community as a <strong>Tech Lead</strong> at <strong>COG Baao</strong> and as a member of <strong>DEVS100</strong> and <strong>GDG Philippines</strong>. Recently, I’ve been exploring <strong>AI-assisted development</strong> and how it can improve workflows and project outcomes.
+I enjoy designing systems before writing code—from planning database structures and backend logic to building clean, maintainable, and scalable solutions. I'm passionate about continuous learning and enjoy exploring new technologies, software design practices, and tools that help me build better software.
 
- I am currently finishing my <strong>Bachelor of Science in Information Systems</strong> and am actively seeking opportunities. whether a <strong>full-time junior developer role</strong> or meaningful <strong>project-based work</strong>.
+I graduated with a **Bachelor of Science in Information Systems** and am currently seeking opportunities as a **Software Engineer** or **Full-Stack Developer**, while remaining open to freelance and project-based work.
+
+Outside of software development, I serve as the **Tech Lead at COG Baao** and actively participate in developer communities where I continue learning, collaborating, and sharing knowledge.
+
+> *Building practical software that creates real impact.*
 
 ---
 
 ## Tech Stack
 
-**Frontend:** React, Vite, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs  
-**Database:** PostgreSQL, MySQL  
+**Languages:** JavaScript, TypeScript
+
+**Frontend:** React, Vite, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Authentication:** OAuth 2, JWT
+
+**Database:** PostgreSQL, MySQL, SQLite
+
 **Tools & Platforms:** Git, GitHub, Supabase, Render, Cloudflare
 
 ---
 
-## GitHub Stats
+## Open to Opportunities
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alen18-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alen18-source&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alen18-source&theme=tokyonight&hide_border=true" />
-</p>
+- **Seeking:** Software Engineer or Full-Stack Developer opportunities
+- **Availability:** Full-time, Freelance, and Project-based work
+- **Interests:** Software Architecture, System Design, AI-assisted Development, and Modern Web Technologies
 
 ---
 
-## Get in Touch
+## Let's Connect
 
-- Gmail: **ralphdharinbulalacao@gmail.com**
-- LinkedIn: https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4
-- Instagram: https://www.instagram.com/ralph_bulalacao1/
-- You're already here!
+Feel free to reach out if you'd like to collaborate, discuss software development, or simply connect.
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alen18-source&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+- **Email:** ralphdharinbulalacao@gmail.com
+- **LinkedIn:** https://linkedin.com/in/bulalacao-ralph-dharin-2b85443a4
+- **Instagram:** https://www.instagram.com/ralph_bulalacao1
