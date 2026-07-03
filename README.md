@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ralph Dharin</h1>
 
 <p align="center">
-  <b>Software Developer</b> · Junior Full-Stack Developer · Baao, Camarines Sur 🇵🇭
+  <b>Software Engineer</b> · Junior Full-Stack Developer · Baao, Camarines Sur 🇵🇭
 </p>
 
 <p align="center">
