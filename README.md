@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a Software Engineer passionate about building practical software that solves real-world problems. I enjoy turning ideas into reliable systems that help businesses and organizations improve their workflows and simplify everyday operations.
+I'm a <strong>Software Engineer</strong> passionate about building <strong>practical software</strong> that <strong>solves real-world</strong> problems. I enjoy turning ideas into reliable systems that help businesses and organizations improve their workflows and simplify everyday operations.
 
 I enjoy designing systems before writing code—from planning database structures and backend logic to building clean, maintainable, and scalable solutions. I'm passionate about continuous learning and enjoy exploring new technologies, software design practices, and tools that help me build better software.
 
